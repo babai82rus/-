@@ -1,0 +1,23 @@
+body{
+    color: rgb(68, 255, 43);
+    background-color: rgb(0, 0, 0);
+
+}
+button{
+    height: 35px;
+    width: 100px;
+    color: rgb(42, 255, 52);
+    background-color:black;
+}
+.login{
+    background-color: black;
+    color:  rgb(42, 255, 52);
+    height: 25px;
+    width: 100px;
+}
+.password{
+    background-color: black;
+    color:  rgb(42, 255, 52);
+    height: 25px;
+    width: 100px;
+}
